@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Reservation:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Reservation.war">
+      <element id="artifact" artifact-name="Reservation:war exploded" />
+    </root>
+  </artifact>
+</component>
